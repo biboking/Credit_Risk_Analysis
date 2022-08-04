@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-# Project Overview 
+## Project Overview 
 - In this project, we are using machine learning to analyze credit risk for a specific group of samples. This group of samples is split into training and testing groups. We use sklearn and imblearn to build different models to train the training samples and use that results to evaluate the credit risk of test samples. We used the following algorithm.
 
 - Naive Random Oversampling
